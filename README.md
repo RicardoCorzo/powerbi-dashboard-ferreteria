@@ -5,7 +5,7 @@ Este repositorio contiene un panel interactivo y ejecutivo desarrollado en **Pow
 ---
 
 ## 🖼️ Vista Previa del Dashboard
-![Vista Previa del Dashboard](vista%20previa%20del%20panel%20de%20control.png)
+![Vista Previa del Dashboard](dashboard.png)
 
 ---
 
