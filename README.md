@@ -21,3 +21,10 @@ Este repositorio contiene un panel interactivo y ejecutivo desarrollado en **Pow
 * **Power BI Desktop:** Modelado de datos y diseño UI/UX en layout estructurado por contenedores.
 * **Power Query & DAX:** Limpieza de datos y cálculos de métricas clave.
 * **PowerPoint:** Maquetación de plantillas y fondos del lienzo.
+
+* ---
+
+## 👨‍💻 Autor
+**Ricardo Corzo**  
+*Ingeniero de Sistemas | Analista de Datos & Desarrollo*  
+* Bogotá, Colombia
